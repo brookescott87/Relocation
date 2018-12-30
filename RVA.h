@@ -7,8 +7,8 @@
 #include <functional>
 
 #include "f4se_common/f4se_version.h"
-#include "Relocation/Pattern.h"
-#include "Relocation/Relocation.h"
+#include "Pattern.h"
+#include "Relocation.h"
 
 
 struct sig_plugin_info
